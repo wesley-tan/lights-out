@@ -25,6 +25,3 @@ I'd first like to put down a list of resources I used/referred to in crafting th
 https://www.cs.cmu.edu/~tcortina/15-105sp09/lab9.html
 http://inventwithpython.com/extra/lightsout.py
 https://forums.raspberrypi.com/viewtopic.php?t=249806
-
-Since this is the last assignment, I'd like to thank Professor Zimmeck, and the CAs Conrad, Deborah, Pete, Gavin and Elana for all your help in COMP114 as a whole.
-I've thoroughly enjoyed this class.
